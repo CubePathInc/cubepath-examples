@@ -12,13 +12,19 @@ Here you'll find resources to help you deploy applications, automate workflows, 
 
 Learn how to install and configure Coolify on Ubuntu 24.04, set up HTTPS, and deploy applications using Git.
 
+### n8n
+
+**[Deploy n8n on a CubePath VPS](./n8n/README.md)**
+
+Deploy self-hosted n8n from the CubePath Marketplace, find your access details and run your first workflow.
+
 ### LiteLLM + AI Gateway
 
 **[Use LiteLLM with the CubePath AI Gateway](https://github.com/CubePathInc/litellm-ai-gateway)**
 
 Connect LiteLLM to the CubePath AI Gateway to call OpenAI, Anthropic, Google, xAI and DeepSeek models with one API key, from the Python SDK or the LiteLLM Proxy.
 
-More guides for Docker, n8n, and AI agents are planned.
+More guides for Docker and AI agents are planned.
 
 ## What is CubePath?
 
